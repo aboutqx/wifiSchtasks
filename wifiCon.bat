@@ -14,7 +14,7 @@ set /p input=请输入字符串:
 rem 输出得到的输入信息
 
 echo 您输入的字符串是：%input%
-rem pause>null
+rem pause>nul
 
 echo.
 
